@@ -1,7 +1,7 @@
-Zara Ahmed
 zzara.ahmed@mail.utoronto.ca | http://linkedin.com/in/zzaraahmed | Ontario, Canada 
 
 Education
+
 Lahore Grammar School | Lahore, Pakistan, August 2021 - June 2022
 Pakistan Studies & Islamiyat Candidate, scored an A and A* respectively.
 Involvement in Aitchison's MUN.  
@@ -22,6 +22,7 @@ Electrical Engineering BASc Candidate, offer inclusive of PEY Co-op.
 Engineered a computational MATLAB pipeline for large-scale MEG analysis, integrating PCA and linear regression to quantify brain-behavior associations.
 
 Experience
+
 Neurotech, University of Toronto | Research Assistant 
 September 2025 - Present 
 Toronto, Ontario, Canada, On-site
@@ -76,6 +77,7 @@ Dubai, United Arab Emirates, On-site
 - Listened to patient success stories.
 
 Skills and Honors 
+
 Laboratory: scientific equipment manipulation, scientific inquiry, data evaluation, hypothesis testing, quantitative research, critical analysis, query formation, and pharmacokinetics data interpretation.
 Technical: Arduino IDE, AutoCAD Mechanical, circuit design.
 Other: non-profit volunteering, organizational effectiveness, Chicago-style citation, service orientation.
@@ -88,4 +90,5 @@ Other: non-profit volunteering, organizational effectiveness, Chicago-style cita
 - Ranked gold in the UKMT Junior Mathematical Challenge 
 - Class Representative throughout Year 11, at GEMS Founders School, Mizhar. Tasked with presenting issues within my section in board meetings with other student council members. 
 - Ranked first in an inter-school Fine Arts Competition, contender at the Junior Division level. 
+
 - Presented introductory stance at SCOPE, issued by School Conference of Parties Exposition, prepared and delivered a speech about climate change as an environmental problem, and how greater climate literacy is needed across various schools and nations to promote sustainability. Approached a diet action research project.
