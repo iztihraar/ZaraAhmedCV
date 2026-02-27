@@ -61,6 +61,7 @@ Lahore, Punjab, Pakistan
 - Was taught about orthopedic issues and practices in their treatment, improved understanding of anatomical constraints.
 
 Leadership & Activities
+
 Gems Wellington Academy, Volunteering | Peer Mentor
 February 2024 - July 2024 
 Dubai, United Arab Emirates, On-site
@@ -92,3 +93,4 @@ Other: non-profit volunteering, organizational effectiveness, Chicago-style cita
 - Ranked first in an inter-school Fine Arts Competition, contender at the Junior Division level. 
 
 - Presented introductory stance at SCOPE, issued by School Conference of Parties Exposition, prepared and delivered a speech about climate change as an environmental problem, and how greater climate literacy is needed across various schools and nations to promote sustainability. Approached a diet action research project.
+
