@@ -3,7 +3,7 @@ zzara.ahmed@mail.utoronto.ca | http://linkedin.com/in/zzaraahmed | Ontario, Cana
 Education
 
 Lahore Grammar School | Lahore, Pakistan, August 2021 - June 2022
-Pakistan Studies & Islamiyat Candidate, scored an A and A* respectively.
+Pakistan Studies & Islamiyat Candidate, scored A*'s.
 Involvement in Aitchison's MUN.  
 
 Gems Founders School, Mizhar | Dubai, United Arab Emirates, August 2022 - July 2023
@@ -93,4 +93,5 @@ Other: non-profit volunteering, organizational effectiveness, Chicago-style cita
 - Ranked first in an inter-school Fine Arts Competition, contender at the Junior Division level. 
 
 - Presented introductory stance at SCOPE, issued by School Conference of Parties Exposition, prepared and delivered a speech about climate change as an environmental problem, and how greater climate literacy is needed across various schools and nations to promote sustainability. Approached a diet action research project.
+
 
